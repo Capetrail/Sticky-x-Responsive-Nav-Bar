@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 50px;
   /* display: none; */
-  background-color: red;
+  background-color: rgb(59, 92, 176);
   position: fixed;
   float: left;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #bbeeb9;
+  background-color: #b2d02d;
   color: white;
 }
 
